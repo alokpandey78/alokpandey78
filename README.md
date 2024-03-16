@@ -4,10 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokpandey78&label=Profile%20views&color=0e75b6&style=flat" alt="alokpandey78" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/alokpandey78](https://linktr.ee/alokpandey78)
-
-- 💬 Ask me about **PHP5, Laravel, CodeIgniter, Angular, React, Next, Contectful, Zoho CRM, MySQL**
-
 - 📫 How to reach me **alokpandey78@gmail.com**
+- ⚡ Fun fact **I am funny😅**
 
 - 📄 Know about my experiences [Senior Team Lead (Full Stack Developer - PHP | Laravel | CodeIgniter | MEAN | MERN) at City Innovates Pvt. Ltd.](Senior Team Lead (Full Stack Developer - PHP | Laravel | CodeIgniter | MEAN | MERN) at City Innovates Pvt. Ltd.)
 
